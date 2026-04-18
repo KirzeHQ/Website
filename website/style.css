@@ -1,0 +1,23 @@
+/* Imagine Styling a CSS file ./j */
+:root {
+	/* base */
+	--bg: #0f1116;
+	--surface: #161925;
+	--surface-2: #1c2030;
+
+	/* warmth layer */
+	--warm-overlay: #1a1423;
+	--warm-surface: #221a2e;
+
+	/* identity accents */
+	--pink: #ff4fa3;
+	--pink-hover: #ff7dbb;
+
+	--purple: #8b5cf6;
+	--purple-deep: #6d28d9;
+
+	/* text */
+	--text: #e5e7eb;
+	--text-muted: #9aa4b2;
+	--text-dim: #6b7280;
+}
